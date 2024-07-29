@@ -1,0 +1,128 @@
+body{
+    background: #83c1d8;
+}
+nav{
+    padding: 10px;
+    background: #dcd2d2;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+ 
+}
+
+li{
+    list-style:none ;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+ 
+ 
+ 
+.header-image{
+background:url(./istockphoto-544473722-612x612.jpg);
+width: 100%;
+height: 600px;
+
+}
+.contain{
+font-family: sans-serif;
+ /* border: 1px solid #6baed0; */
+ width: 500px;
+ height: 100px;
+ box-shadow: 1px 2px  4px rgb(141, 132, 132);
+ margin-left: 30px;
+ font-size: 60%;
+ 
+}
+#cam{
+    margin-left: 34%;
+}
+#dia{
+    margin-left: 4%;
+}
+ 
+ .Register{
+     box-shadow: 1px 0px 0px 2px rgb(123, 176, 194);
+     width: 20%;
+    margin-top: 10px;
+     
+     margin-left: 36%;
+     padding: 100px;
+
+     margin-bottom: 0%;
+  
+
+     margin-right: 20%;
+    }
+    .input-container{
+        margin-left: 3%;
+        height: 20%;
+    padding: 12px 5px;
+    height: 5vh ;
+    
+
+ }
+ h2{
+    margin-left:30%;
+    color: #737923;
+    /* margin-bottom: 50%; */
+ }
+ .input-container {
+    display: -ms-flexbox;
+    /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+
+  }
+
+  .icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+  }
+
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+  }
+
+  .input-field:focus {
+    border: 2px solid dodgerblue;
+  }
+
+  /* Set a style for the submit button */
+  .btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-left: 10px;
+    opacity: 0.9;
+  }
+
+  .btn:hover {
+    opacity: 1;
+  }
+  a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: aqua;
+
+  }
+li{
+  margin-left: 30%;
+  /* background-color: aqua; */
+  width: 90px;border-radius: 7px;
+
+}
+  
+
+ 
+    
